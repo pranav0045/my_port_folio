@@ -44,7 +44,7 @@ const Projects = () =>{
                     <h3>Dino Game</h3>
                     <h4>Tech:javaScript</h4>
                 
-                    <p>A simple javaScript dino game built using css animations and js dom .</p>
+                    <p>A simple javaScript dino game built using css and js dom .</p>
 
                     <a href='https://github.com/pranav0045/dino_game'><button>Source code</button></a>
 
@@ -65,7 +65,7 @@ const Projects = () =>{
                     <h3>Tic Tac Toe</h3>
                     <h4>Tech:javaScript</h4>
                 
-                    <p>this is a simple tic tac toe game built using html,css and javaScript.</p>
+                    <p>this is a simple tic tac toe game built using  javaScript.</p>
 
                     <a href='https://github.com/pranav0045/gametictac.github.io'><button>Source code</button></a>
 
@@ -85,7 +85,7 @@ const Projects = () =>{
                     <h3>Nike clone</h3>
                     <h4>Tech:html,css,js</h4>
                 
-                    <p>nike clone it is a responsive web page built using html,css and javascript.</p>
+                    <p>nike clone a responsive web page built using html,css,javascript.</p>
 
                     <a href='https://github.com/pranav0045/nike_clone_home'><button>Source code</button></a>
 
@@ -103,7 +103,7 @@ const Projects = () =>{
                     <h3>spotify music page</h3>
                     <h4>Tech:javaScript</h4>
                 
-                    <p>this is a spotify music page with music enabled built using javascript.</p>
+                    <p>this is a spotify music page built using javascript.</p>
 
                     <a href='https://github.com/pranav0045/play-music'><button>Source code</button></a>
 
