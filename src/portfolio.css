@@ -3226,7 +3226,7 @@
     }
 
     .main-section .right-part {
-      width: 86%;
+      width: 85%;
       height: 45vh;
     }
 
@@ -3258,7 +3258,7 @@
   }
 
   .main-section .left-part p{
-    font-size: 4vw;
+    font-size: 3.8vw;
     line-height: 5.3vw;
   }
    
@@ -3347,7 +3347,7 @@
   }
 
   .cards{
-    width: 83%;
+    width: 85%;
   }
 
   .card{
@@ -3355,30 +3355,31 @@
   }
   
 .card h3 {
-  font-size: 5.8vw;
+  font-size: 5.5vw;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-weight: bold;
-  margin-bottom: 2.6vw;
+  margin-bottom: 2.3vw;
   padding: 0 2vw;
   
 }
 
 .card h4 {
   font-size: 5vw;
-  margin-bottom: 1.8vw;
+  margin-bottom: 1.5vw;
   padding: 0 2vw;
 }
 
 .card p {
-  font-size: 4.8vw;
+  font-size: 4.2vw;
   padding: 0 2vw;
 }
 
 .card a button {
  
-  margin-top: 8vw;
+  margin-top: 6vw;
   padding: 1.3vw 2vw;
-  font-size:4.9vw;
+  font-size:4.5vw;
+  margin-left:4vw;
   
 }
 
