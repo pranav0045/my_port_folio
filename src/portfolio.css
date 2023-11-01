@@ -1853,7 +1853,7 @@
     .nav-list2 a{
       text-decoration: none;
       color: white;
-      font-size: 23px;
+      font-size: 20px;
       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
       font-weight: bolder;
       transition: all .3s linear;
@@ -3249,7 +3249,7 @@
   
   .main-section .left-part h1{
     font-size: 5.5vw;
-    margin-bottom:1.4vw;
+    margin-bottom:1.5vw;
   }
 
   .main-section .left-part h2{
@@ -3258,8 +3258,8 @@
   }
 
   .main-section .left-part p{
-    font-size: 4.3vw;
-    line-height: 5.5vw;
+    font-size: 4vw;
+    line-height: 5.3vw;
   }
    
   .profile-btn{
@@ -3326,7 +3326,7 @@
         
   .percentage {
     top: 25px;
-    left: 60px;
+    left: 58px;
     font-size: 4.2vw;
   }
 
