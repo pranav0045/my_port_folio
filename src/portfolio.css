@@ -17,7 +17,7 @@
   }
 
   body::-webkit-scrollbar {
-    width: 5px;
+    width: 2px;
     background-color: #dadada;
   }
 
@@ -26,8 +26,7 @@
     height: 100%;
     background-color: rgb(1, 5, 25);
     padding-inline: 2.5vw;
-    margin: .5vw;
-    border-radius: 20px;
+    
   }
 
 
@@ -3219,7 +3218,7 @@
     
     
     .main-section {
-      margin-top: 8vh;
+      margin-top: 6vh;
       flex-direction: column;
       width: 100%;
       height: 100%;
@@ -3227,7 +3226,7 @@
     }
 
     .main-section .right-part {
-      width: 85%;
+      width: 86%;
       height: 45vh;
     }
 
@@ -3245,19 +3244,21 @@
 
 
   .main-section .left-part{
-    width: 90%;
+    width: 85%;
   }
   
   .main-section .left-part h1{
-    font-size: 5.9vw;
+    font-size: 5.5vw;
+    margin-bottom:1.4vw;
   }
 
   .main-section .left-part h2{
-    font-size: 5.4vw;
+    font-size: 5vw;
+    margin-bottom: 1.5vw;
   }
 
   .main-section .left-part p{
-    font-size: 4.9vw;
+    font-size: 4.3vw;
     line-height: 5.5vw;
   }
    
@@ -3280,17 +3281,17 @@
   }
 
  .about-section .left-part2{
-  width: 90%;
+  width: 85%;
  }
 
   .about-section .left-part2 h2{
-    font-size: 5.9vw;
+    font-size: 5.5vw;
   }
 
 
   .about-section .left-part2 p{
-    font-size: 4.9vw;
-    line-height: 5.4vw;
+    font-size: 4.3vw;
+    line-height: 5.5vw;
   }
 
   .about-section .right-part {
